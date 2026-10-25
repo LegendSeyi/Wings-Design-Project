@@ -1,4 +1,4 @@
-# Wing and Blades | Fusion 360 Design
+# Wing and Blades | Fusion 360 Design 
 
 <p align="center">
   <img src="wing%20and%20blades1.jpg" alt="Wing and blades main render" width="700">
